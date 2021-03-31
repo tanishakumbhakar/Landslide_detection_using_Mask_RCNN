@@ -1,6 +1,4 @@
 # Landslide_detection_using_Mask_RCNN
-Freely available landslide photographs are collected from distinct sources to create the training dataset. Transfer learning is used for achieving good results with finite training samples. Object detection task is performed on landslide photographs for achieving landslide detection with minimal dataset using a pre-trained Mask R-CNN model.
-# Landslide_detection_using_Mask_RCNN
 Freely available landslide photographs are collected from distinct sources to create the training dataset. Transfer learning is used for achieving good results with finite training samples. Object detection task is performed on landslide photographs for achieving landslide detection with minimal dataset using a Mask R-CNN model pre-trained on COCO weights. ResNet 101 backbone is used.
 
 # WORK PLAN
